@@ -1,4 +1,4 @@
-# Acessibilidade-
+# Acessibilidade
 
 # 👁️‍🗨️ Web Acessível para Deficientes Visuais
 
